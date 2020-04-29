@@ -1,0 +1,256 @@
+    1  git init
+    2  git config -user.email "nayankumar981@gmail.com"
+    3   git remote add origin https://github.com/nayankumar981/hiber.git 
+    4  git add .
+    5  git status
+    6  git commit -m "testing for nibernate"
+    7  git status
+    8  git push origin master
+   10  git status
+   11  git status
+   12  git --version
+   13  git help config
+   14  git config --help
+   16  mkdir git
+   18  cd git/
+   20  git init
+   21  git status
+   22  git add .
+   23  git status
+   24  git commit "1st"
+   25  git commit -m "1st"
+   26  git config --global user.usename nayankumar981
+   27  git remote add origin https://github.com/nayankumar981/TestRepo.git
+   28  git push origin master
+   29  git status
+   30  git push origin master
+   31  git pull origin master
+   32  git add .
+   33  git commit -m "testing"
+   34  git config --global user.email "you@example.com"
+   35  git config --global user.name "
+   36  git config --global user.name "nayankumar981"
+   38  git status
+   39  git commit -m "tests"
+   40  git push origing master
+   41  git push origin master
+   44  git push origin master
+   45  git add .
+   46  git status
+   47  git commit -m "checking"
+   48  git push origin master
+   49  git push origin master
+   50  git status
+   51  git pull origin master
+   53  git push origin master
+   54  git init
+   55  git --version
+   57  git status
+   58  git add test.txt
+   59  git status
+   60  git commit -m "Testing commit"
+   61  git push 
+   62  git config --global --list
+   63  git config -e
+   64  git config --global user.email
+   65  git config --global user.name
+   66  git status
+   67  git status
+   68  git pull 
+   69  git config --global --unset-all user.usename
+   70   git config --global --list
+   71  git push
+   72  git add hello
+   73  git hello.docx
+   74  git add hello.docx
+   75  git diff
+   76  git status
+   77  git commit hello.docx -m 'hello file'
+   78  git remote add origin https://github.com/Vinod-21/Bridge_Labz-Week-1.git
+   79  git push origin master
+   80  git config--global user.email "vinodtitu1@gmail.com"
+   81  git config --global user.email "vinodtitu1@gmail.com"
+   82  git push origin master
+   83  git --help
+   84  git pull origin master
+   85  git remote add origin "https://github.com/Vinod-21/Bridge_Labz-Week-1.git"
+   86  git pull origin master
+   87  git branch firstbranch
+   88  git checkout firstbranch
+   89  git push origin master
+   90  git status
+   91  git branch
+   92  git status
+   93  git push 
+   94  git push firstbranch
+   95  git push origin firstbranch
+   96  git push origin firstbranch
+   97  git init
+   98  git config --global user.name "Vinod-21"
+   99  git status
+  100  git push origin firstbranch
+  101  git clone https://github.com/Vinod-21/Bridge_Labz-Week-1
+  102  git staus
+  103  git status
+  104  git branch
+  105  git status
+  106  git add.
+  107  git add .
+  108  git rm --cached Bridge_Labz-Week-1
+  109  git status
+  110  git status
+  111  git add t1.txt
+  112  git status
+  113  git commit -, "test"
+  114  git status
+  115  git commit -m "testing"
+  116  git push 
+  117  git status
+  118  git status
+  119  git add t2.txt
+  120  git status
+  121  git commit -m "testing"
+  122  git push
+  123  git config --global -e
+  124  git config user.name Vinod-21
+  125  git config --global --list
+  126  git push
+  127  git push
+  128  git clone https://Vinod-21@github.com/Vinod-21/Bridge_Labz-Week-1
+  129  git branch
+  130  git clone https://github.com/Vinod-21/Bridge_Labz-Week-1
+  131  git status
+  132  git status
+  133  gitbranch
+  134  git branch
+  136  git checkout master
+  137  git status
+  138  git status
+  139  git add .
+  140  git status
+  141  git commit -m "First Week Basic Programing"
+  142  git push
+  143  gits status
+  144  git status
+  145  git branch
+  146  git branch BasicPrograming
+  147  git branch
+  148  git checkout BasicPrograming 
+  149  git push
+  150  git status
+  151  git push origin BasicPrograming
+  152  git pull origin BasicPrograming
+  153  git status
+  156  git checkout BasicPrograming
+  157  git branch
+  158  git status
+  159  git branch LoginRegistration
+  160  git checkout LoginRegistration
+  161  git push 
+  162  git push -u
+  163  git branch
+  164  git push origin LoginRegistration
+  165  git satus
+  166  git status
+  167  git pull origin LoginRegistration
+  170  git status
+  171  git add .
+  172  git status
+  173  git commit -m "Login Registration using servelets"
+  174  git push 
+  175  git push origin LoginRegistration
+  176  git statu
+  177  git status
+  178  git checkout master
+  179  git checkout LoginRegistration
+  180  git status
+  181  git commit - "deleting"
+  182  git commit -m "deleting"
+  183  git push 
+  185  git push origin LoginRegistration
+  186  git add rm Algorithm
+  187  git rm -r Algorithm
+  188  git commit -m "removing folder"
+  189  git push origin LoginRegistration
+  190  git status
+  191  git checkout master
+  192  git checkout LoginRegistration
+  193  git status
+  194  git rm -r BasicPrograms
+  195  git commit -m "deletd basicprograms"
+  196  git push origin LoginRegistration
+  197  git status
+  198  git rm -r Exceptions
+  199  git rm -r FunctionalProgram
+  200  git rm -r JUnitTesting
+  202  git rm -r LogicalPrograms
+  203  git rm -r datastructure
+  204  git rm -r jdbc
+  205  git commit -m "deleting all except login registration"
+  206  git push origin LoginRegistration
+  207  git rm -r first
+  208  git rm -r First
+  209  git commit -m "delete First"
+  210  git push origin Loginregistration
+  211  git push origin LoginRegistration
+  212  git config --list;
+  218  git init
+  219  git add
+  220  git status
+  221  git add *
+  222  git status
+  223  git add addition.txt
+  224  git init
+  227  git add Addition.txt
+  228  git config core.autocrlf true
+  229  git status
+  230  git commit -m "[Vinod]Added:,Addition file added for some operation"
+  232  git add *
+  233  git status
+  235  git config --global core.autocrlf input
+  236  git status
+  237  git add *
+  238  git status
+  239  git add.
+  240  git add .
+  241  git status
+  242  git remote add origin https://github.com/Vinod-21/Gitutorials.git
+  243  git push origin master
+  244  git pull origin master
+  245  git add *
+  246  git status
+  247  git commit -m"[vinod]Modified: Addition.txt"
+  248  git commit -m "[vinod]Modified: Addition.txt"
+  249  git pull origin master
+  250  git add *
+  251  git status
+  252  git commit -m "[vinod]fixed:conflct  fixed"
+  253  git push origin master
+  254  git branch teacher
+  255  git checkout teacher
+  256  git checkout master
+  257  git pull origin master
+  258  git diff master feature
+  259  git diff master feature
+  260  git diff master feature
+  261  git diff master teacher
+  262  git chechout teacher
+  263  git checkout teacher
+  264  git merge master
+  265  git push origin teacher
+  266  git branch
+  267  git add *
+  268  git status
+  269  git commit -m "[vinod]Modified:did some changes for gettting result"
+  270  git push origin teacher
+  271  git branch
+  272  git checkout master
+  273  git merge teacher
+  274  git push origin master
+  275   history | grep git->touch gitcommands.txt
+  276  touch gitcommands.txt
+  277   history | grep git->touch gitcommands.txt
+  278   history | grep git-> gitcommands.txt
+  280  history| grep git
+  282  hsitory | grep git >commands1.txt
+  283  history | grep git >commands1.txt
